@@ -1,1 +1,0 @@
-# Gold-Strategy-API
